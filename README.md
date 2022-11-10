@@ -1,1 +1,1 @@
-tikus-delivery-bot-website
+Frontend Mentor - E-commerce product page solution
