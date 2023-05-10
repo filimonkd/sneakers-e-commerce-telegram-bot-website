@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "telegraf": "^4.11.2",
     "vue": "^3.2.41",
     "vuex": "^4.0.2"
   },
