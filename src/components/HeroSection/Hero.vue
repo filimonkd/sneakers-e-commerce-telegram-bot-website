@@ -10,6 +10,7 @@ import HeroLightbox from './HeroLightbox.vue';
 import HeroShoes from './HeroShoes.vue';
 import HeroText from './HeroText.vue';
 
+
 export default {
     name: "Hero",
     components: {
